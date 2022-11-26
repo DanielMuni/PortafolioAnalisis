@@ -1,0 +1,7 @@
+Daniel Munive Meneses - A01734205
+
+- Se interpreto el dicky-fuller con la diferencia seasonal
+
+- Se agrego la interpretacion de los coeficientes del modelo
+
+- Se le suma al valor de la prediccion su valor de lag12

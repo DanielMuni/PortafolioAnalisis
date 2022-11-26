@@ -1,0 +1,5 @@
+Daniel Munive Meneses - A01734205
+
+- Se aumento la justificacion de decisiones que se realizaron en el desarrollo del modelo
+
+- Se realizaron algunas predicciones con el modelo que obtuve con esto ademas realizo una validacion sobre los datos predichos para verificar la consistencia de estos, observando los valorque predichos y los valores correctamente predichjos,. ademas de elegir el metodo de ValidateData como True a la hora de entrenar el modelo
